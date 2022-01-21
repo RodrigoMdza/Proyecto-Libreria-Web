@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/11/2021, 07:33:18 PM
+    Author     : acer_
+*/
+body{   
+    background-image: url('https://viajes.nationalgeographic.com.es/medio/2020/11/12/1-libreria-lello_cf018156_1000x667.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90%;
+    font-family: 'Numans', sans-serif;
+}
+
+h2,h1{
+    color: white;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+    color: white;
+}
+
+.mimenu{
+    float: right;
+    margin-right: 12%;
+    text-decoration: none;
+}
+
